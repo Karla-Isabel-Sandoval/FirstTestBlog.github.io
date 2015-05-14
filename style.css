@@ -1,0 +1,51 @@
+h3 
+  {font-family: 'Pacifico', cursive;
+  font-weight: 400;
+}
+
+body
+ 	{
+ 		text-align: center;
+
+ 	}
+#home {
+  background: url("/img/background3.jpg") center center fixed;
+  background-size: cover;
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  max-width:100%; 
+
+}
+
+#carrot{
+	text-align: center;
+	background-color: white;
+}			
+
+.header{
+	background-color: white;
+	text-align: center;
+}
+
+#hummingbird {
+		background: url("/img/deviantart.jpg") center center fixed;
+	background-size: cover;
+	background-attachment: scroll;
+	background-repeat: no-repeat;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+.container-fluid {
+	color: pink;
+
+}
+
+#Portfolio {	
+	text-align: center;
+}
+
+
+
