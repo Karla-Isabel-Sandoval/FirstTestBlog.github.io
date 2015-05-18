@@ -8,6 +8,7 @@ body
  		text-align: center;
 
  	}
+
 #home {
   background: url("/img/background3.jpg") center center fixed;
   background-size: cover;
@@ -21,11 +22,13 @@ body
 
 #carrot{
 	text-align: center;
-	background-color: white;
+	background-color: white
+
+	;
 }			
 
 .header{
-	background-color: white;
+	background-color: red;
 	text-align: center;
 }
 
